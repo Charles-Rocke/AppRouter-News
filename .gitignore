@@ -1,0 +1,31 @@
+# Node Modules
+node_modules/
+
+# Build Output
+.next/
+out/
+dist/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Temporary Files
+logs/
+*.log
